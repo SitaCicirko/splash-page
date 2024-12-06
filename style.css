@@ -28,3 +28,13 @@ footer {
   text-align: center;
   font-size: 14px;
 }
+main {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+section {
+  flex: 1;
+  padding: 20px;
+}
